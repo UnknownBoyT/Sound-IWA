@@ -1,0 +1,38 @@
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background: #8300fd;
+}
+
+.header_div
+  {
+  background: #00e8f8;
+  color: rgb(255, 251, 0); 
+  }
+
+  .header_div p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Comic Neue',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #26ff00;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #75f84277;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 1px 1px 1px rgb(187, 255, 0);
+}
